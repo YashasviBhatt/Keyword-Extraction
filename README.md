@@ -61,3 +61,7 @@ Now several people might still be having doubts, that what to do with the keywor
 We can find the nature of recently received emails. Let's say the analysis on recent emails says that the maximumly occurred keywords were like this, _Interest_, _Happy_, _Good Product_, _Enjoy_, _Fun_ etc therefore we can say that for current sales the product/service is putting good impact on the customers and thus we can record the current constraints and kept using them to make our sales go even higher. Also we can forecast the sales based on those constraints as well. 
 
 It could also work in reverse as well, if negative keywords are observed that means there're some faults in our product/service so we'll try to rectify it and try to make it better such that the upcoming sales does not fail.
+
+Use the `requirements.txt` file to see all the Python Modules and Libraries used and also to download them. You can download dataset and get insights on dataset from following links:
+- [Enron Email Dataset Download](https://www.kaggle.com/wcukierski/enron-email-dataset/download)
+- [Enron Email Dataset](https://www.cs.cmu.edu/~enron/)
