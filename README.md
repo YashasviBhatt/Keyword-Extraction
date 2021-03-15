@@ -48,7 +48,7 @@ After the last step, we can see that we are moving towards the goal and reaching
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4 | 3 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 
-Thus for our example, number of Keywords are 9 with CAT being the highest occurred Keyword and WORE being the least occurred Keyword. We can limit them to whatever number we want.
+Thus for our example, number of Keywords are 9 with CAT being the highest occurred Keyword and WORE being the least occurred Keyword.
 
 ---
 
@@ -58,10 +58,10 @@ You can see the Bar Plot which I have plotted to display the top 20 majorly occu
 
 Now several people might still be having doubts, that what to do with the keywords generated.
 
-We can find the nature of recently received emails. Let's say the analysis on recent emails says that the maximumly occurred keywords were like this, _Interest_, _Happy_, _Good Product_, _Enjoy_, _Fun_ etc therefore we can say that for current sales the product/service is putting good impact on the customers and thus we can record the current constraints and kept using them to make our sales go even higher. Also we can forecast the sales based on those constraints as well. 
+We can find the nature of recently received emails. Let's say the analysis on recent emails says that the majorly occurred keywords were like this, _Interest_, _Happy_, _Good Product_, _Enjoy_, _Fun_ etc therefore we can say that for current sales the product/service is putting good impact on the customers and thus we can record the constraints that act as base behind those responses and kept using them and even modify them such that our sales go even higher. Also we can forecast the sales based on those constraints as well. 
 
-It could also work in reverse as well, if negative keywords are observed that means there're some faults in our product/service so we'll try to rectify it and try to make it better such that the upcoming sales does not fail.
+It could be used in reverse as well, if negative keywords are observed that means there're some faults in our product/service so we'll try to rectify them or change them so as to make it better such that the upcoming sales does not fail us.
 
-Use the `requirements.txt` file to see all the Python Modules and Libraries used and also to download them. You can download dataset and get insights on dataset from following links:
+Use the `requirements.txt` file to see all the Python Modules and Libraries used. To install these libraries on your local system use `pip install -r requirements.txt`. You can download dataset and get insights on dataset from following links:
 - [Enron Email Dataset Download](https://www.kaggle.com/wcukierski/enron-email-dataset/download)
 - [Enron Email Dataset](https://www.cs.cmu.edu/~enron/)
